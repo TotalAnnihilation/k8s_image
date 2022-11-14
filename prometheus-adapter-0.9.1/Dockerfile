@@ -1,1 +1,1 @@
-FROM registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.9.1
+FROM k8s.gcr.io/v2/prometheus-adapter/prometheus-adapter/manifests/v0.9.1
